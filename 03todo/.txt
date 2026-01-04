@@ -1,0 +1,2 @@
+use naonoid
+two way binding use here
