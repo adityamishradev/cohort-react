@@ -1,0 +1,25 @@
+[
+  { "name": "Mobile Phone", "category": "Electronics" },
+  { "name": "Laptop", "category": "Electronics" },
+  { "name": "Headphones", "category": "Electronics" },
+  { "name": "Bluetooth Speaker", "category": "Electronics" },
+  { "name": "Smart Watch", "category": "Electronics" },
+
+  { "name": "T-Shirt", "category": "Fashion" },
+  { "name": "Jeans", "category": "Fashion" },
+  { "name": "Shoes", "category": "Fashion" },
+  { "name": "Jacket", "category": "Fashion" },
+  { "name": "Cap", "category": "Fashion" },
+
+  { "name": "Notebook", "category": "Stationery" },
+  { "name": "Pen", "category": "Stationery" },
+  { "name": "Pencil", "category": "Stationery" },
+  { "name": "Marker", "category": "Stationery" },
+  { "name": "Eraser", "category": "Stationery" },
+
+  { "name": "Chair", "category": "Furniture" },
+  { "name": "Table", "category": "Furniture" },
+  { "name": "Sofa", "category": "Furniture" },
+  { "name": "Bed", "category": "Furniture" },
+  { "name": "Cupboard", "category": "Furniture" }
+]
