@@ -1,4 +1,5 @@
 # BIG PICTURE (PEHLE YE SAMJHO)
+```
 src/
 │
 ├── api/                👈 ALL API CALLS
@@ -24,7 +25,7 @@ src/
 │
 ├── App.jsx
 └── main.jsx
-
+```
 ```
 Production React App mein flow aisa hota hai:
 
