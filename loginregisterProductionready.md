@@ -1,4 +1,29 @@
 # BIG PICTURE (PEHLE YE SAMJHO)
+src/
+│
+├── api/                👈 ALL API CALLS
+│   ├── axiosInstance.js
+│   ├── product.api.js
+│   ├── auth.api.js
+│   └── order.api.js
+│
+├── context/            👈 GLOBAL STATE (optional)
+│   └── AuthContext.jsx
+│
+├── pages/              👈 PAGE LEVEL LOGIC
+│   ├── Home.jsx
+│   ├── Login.jsx
+│   └── Orders.jsx
+│
+├── components/         👈 PURE UI
+│   ├── ProductCard.jsx
+│   └── Navbar.jsx
+│
+├── utils/              👈 helpers
+│   └── formatPrice.js
+│
+├── App.jsx
+└── main.jsx
 
 ```
 Production React App mein flow aisa hota hai:
